@@ -7,7 +7,7 @@ The full game build (playable demo) is hosted separately.
 ---
 
 ## Demo
-Play the game here: [[Here](https://nam3887.itch.io/2d-tower-defense-demo)]
+Play the game here: [[Here](https://nam3887.itch.io/2d-tower-defense-demo)] (password: Mike)
 
 ---
 
