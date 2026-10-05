@@ -33,7 +33,7 @@ Play the game here: [[Here](https://nam3887.itch.io/2d-tower-defense-demo)]
 
 ---
 
-### Dev Log Example (8/7/25)
+### Dev Log (8/7/25)
 
 - Added text boxes for **current wave** and **player lives**  
 - Used **events** to update UI without tight coupling  
